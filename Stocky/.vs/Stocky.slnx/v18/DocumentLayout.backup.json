@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|c:\\users\\asus\\downloads\\stocky-20260918t174837z-1-001\\stocky\\stocky\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|solutionrelative:stocky\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|c:\\users\\asus\\downloads\\stocky-20260918t174837z-1-001\\stocky\\stocky\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|solutionrelative:stocky\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\stocky\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|solutionrelative:stocky\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\stocky\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|solutionrelative:stocky\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|c:\\users\\asus\\downloads\\stocky-20260918t174837z-1-001\\stocky\\stocky\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E865D91-D15A-8F64-5E99-2E0F664250CB}|Stocky\\Stocky.csproj|solutionrelative:stocky\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\Stocky\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Stocky\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\Stocky\\DataAccess.cs*",
+              "RelativeToolTip": "Stocky\\DataAccess.cs*",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAmwFYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T18:08:16.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\Stocky\\Sales.cs",
+              "RelativeDocumentMoniker": "Stocky\\Sales.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\Stocky\\Sales.cs",
+              "RelativeToolTip": "Stocky\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T06:56:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\Stocky\\Sales.cs",
+              "RelativeDocumentMoniker": "Stocky\\Sales.cs",
+              "ToolTip": "C:\\C# Project\\Stocky\\Stocky\\Sales.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\C# Project\\Stocky\\Stocky\\Sales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:39:12.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\Stocky\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "Stocky\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\Stocky\\AddEmployee.cs",
+              "RelativeToolTip": "Stocky\\AddEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:58:54.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Stocky-20260918T174837Z-1-001\\Stocky\\Stocky\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "Stocky\\AddEmployee.cs",
+              "ToolTip": "C:\\C# Project\\Stocky\\Stocky\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\C# Project\\Stocky\\Stocky\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:51:34.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
